@@ -103,7 +103,7 @@
                                         <div class="widget-detail-2">
                                             <span class="badge badge-success badge-pill pull-left m-t-20">32% <i class="mdi mdi-trending-up"></i> </span>
                                             <h2 class="mb-0"> 8451 </h2>
-                                            <p class="text-muted m-b-25">Revenue today</p>
+                                            <p class="text-muted m-b-25">Revenue today1111111111111111111111111111111111111</p>
                                         </div>
                                         <div class="progress progress-bar-success-alt progress-sm mb-0">
                                             <div class="progress-bar progress-bar-success" role="progressbar"
